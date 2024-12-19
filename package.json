@@ -1,0 +1,15 @@
+{
+  "name": "adi-aur-backend",
+  "version": "1.0.0",
+  "description": "backend begins",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Aditya raj",
+  "license": "ISC"
+}
